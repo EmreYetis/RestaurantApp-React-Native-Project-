@@ -1,5 +1,7 @@
-# RestaurantApp-React-Native-Project-
+# RestaurantApp-React-Native-Project
 
-![alt text](/img/1.png)
-![alt text](/img/2.png)
-![alt text](/img/3.png)
+<p align="center">
+  <img src="/img/1.png" alt="Screenshot 1" width="250"/>
+  <img src="/img/2.png" alt="Screenshot 2" width="250"/>
+  <img src="/img/3.png" alt="Screenshot 3" width="250"/>
+</p>
